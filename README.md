@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Robotics and Embedded software development.
+- ⚡ Fun fact: Always smiles at all challenges and QA guys
 <!--
 **quangthanh010290/quangthanh010290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Stefano Borzi's github stats](https://github-readme-stats.vercel.app/api?username=quangthanh010290&show_icons=true)](https://github.com/quangthanh010290)
+### GitHub Stats
+
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=quangthanh010290&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangthanh010290&layout=compact&show_icons=true&hide_border=true" />
+  </td>
+  <td width="52%"><img alt="gif" align="right" src="coding.gif"/></td>
+</tr>
+<table>
+  
+### 📫 Contact me via:
+
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/thanhledotme/)
+  
+💬 website : https://thanhle.me
