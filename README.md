@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Robotics and Embedded software development.
+- 🔭 I’m currently working on IoT and Embedded software development.
 - ⚡ Fun fact: Always smiles at all challenges and QA guys
 <!--
 **quangthanh010290/quangthanh010290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
