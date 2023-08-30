@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on IoT and Embedded software development.
 - ⚡ Fun fact: Always smiles at all challenges and QA guys
 <!--
-**quangthanh010290/quangthanh010290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thanhlev/thanhlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <table>
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=quangthanh010290&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangthanh010290&layout=compact&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thanhlev&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhlev&layout=compact&show_icons=true&hide_border=true" />
   </td>
   <td width="52%"><img alt="gif" align="right" src="coding.gif"/></td>
 </tr>
