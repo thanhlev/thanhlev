@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 </tr>
 <table>
   
+###
+## 📈 GitHub Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thanhlev&theme=radical)
+
 ### 📫 Contact me via:
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/thanhledotme/)
